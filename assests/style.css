@@ -13,7 +13,7 @@ height: 500px;
 width: 80%;
 background-repeat: no-repeat;
 background-size: cover;
-background-image: url("/images/back-img.jpg");
+background-image: url("/education web-page/images/back-img.jpg");
 opacity: 0.9;
 }
 .box-1{
@@ -28,11 +28,15 @@ opacity: 0.9;
 .box-2{
     height: 450px;
     width: 100%;
-    padding-top: 10px;
+    padding: 10px;
     margin: 30px;
     color: rgb(108, 95, 78);
-
     background-color: antiquewhite;
+}
+.box-padding{
+    padding: 90px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 .box-a1{
     padding: 20px;
@@ -75,7 +79,7 @@ background-color: aliceblue;
 
 }
 .box-article{
-    height: 300px;
+    height: 320px;
     width: 100%;
     background-color: aliceblue;
     padding: 30px;
